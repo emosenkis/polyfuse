@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["polyfuse"] = [{"text":"impl Copy for FileAttr","synthetic":false,"types":[]},{"text":"impl Copy for FileLock","synthetic":false,"types":[]},{"text":"impl Copy for StatFs","synthetic":false,"types":[]},{"text":"impl Copy for LockOwner","synthetic":false,"types":[]},{"text":"impl Copy for CapabilityFlags","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

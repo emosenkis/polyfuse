@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["polyfuse"] = [{"text":"impl TryFrom&lt;stat&gt; for FileAttr","synthetic":false,"types":[]},{"text":"impl TryFrom&lt;Metadata&gt; for FileAttr","synthetic":false,"types":[]},{"text":"impl TryFrom&lt;flock&gt; for FileLock","synthetic":false,"types":[]},{"text":"impl TryFrom&lt;statvfs&gt; for StatFs","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
